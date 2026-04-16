@@ -1,4 +1,4 @@
-# python_video_downloader
+# python-video-downloader
 Download videos from youtube
 
 Requires ffmpeg to be installed
